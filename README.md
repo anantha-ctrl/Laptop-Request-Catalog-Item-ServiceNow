@@ -33,7 +33,7 @@ Each feature below explains what the catalog item can do:
 
 ## **🛠️ Technologies Used**
 
-This highlights what ServiceNow components were used:
+This highlights which ServiceNow components were used:
 
 * **Catalog Item** – The main form users interact with.
 * **UI Policies** – Logic that controls field behavior.
@@ -59,6 +59,30 @@ It helps others navigate your project easily.
 
 ---
 
+
+## Screenshots
+## Step 1 Update Sets
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/UpdateSets_szldvb.jpg)
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/UpdateSets1_acbi6i.jpg)
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103126/UpdateSets2_hjdkko.png)
+## Step 2 Service Catalog Item
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103124/Service_Catalog_Item_srywgc.png)
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103126/Service_Catalog_Item1_vvsub0.png)
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/Service_Catalog_Item2_sc1ag6.jpg)
+## Step 3 UI Policy
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/UI_Policy_dcl6le.png)
+## Step 4 UI Action
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/UI_Action_lasbjm.png)
+## Step 5 export UpdateSet
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103124/export_UpdateSets_gu8fe3.png)
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103124/export_UpdateSets1_qvwthj.png)
+## Step 6 Login_to_Anchor
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103124/Login_to_Anchor_k3vmky.png)
+## Step 7 Testing
+![App Screenshot](https://res.cloudinary.com/de1tywvqm/image/upload/v1762103125/Testing_ltgtzt.jpg)
+
+
+
 ## **🚀 How It Works (Explained)**
 
 This section explains the entire workflow in simple steps:
@@ -73,19 +97,6 @@ This section explains the entire workflow in simple steps:
 
 ---
 
-## **🔄 Deployment Steps**
-
-This tells others how to install your project in their own ServiceNow instance:
-
-1. Export your update set as an XML file.
-2. Log in to another ServiceNow instance.
-3. Go to **Retrieved Update Sets**.
-4. Import the XML file.
-5. Preview and check for errors.
-6. Commit the update set.
-7. Test to confirm everything works.
-
----
 
 ## **📊 Results**
 
